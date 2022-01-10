@@ -1,39 +1,22 @@
-## Welcome to GitHub Pages
+## 周子棠
 
-You can use the [editor on GitHub](https://github.com/Zzitang/Zitang-Zhou.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+@北京邮电大学叶培大创新创业学院
+指导老师指导老师：李海源@课程名称：智能机器人系统
+2022年1月10日
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About me
+·北京邮电大学国际学院电信工程及管理专业19级
+·机器学习，深度学习，计算机视觉，分布外检测
 
-### Markdown
+### Projects
+·“小邮快巡”——基于树莓派的自主巡逻机器人
+·语音及手势控制无人机技术及系统
+·“触手可及”——高空作业的无人机机械手臂解决方案!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Others
+·编程： Pytorch, Pyhton, C, MATLAB, JAVA
+·获奖：三好学生， 国家奖学金。
 
-```markdown
-Syntax highlighted code block
-
-# 123456
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Zzitang/Zitang-Zhou.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Contact
+·Phone： 19800309182
+·E-mail: zhouzitang@bupt.edu.cn
